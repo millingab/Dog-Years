@@ -9,4 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface GLViewController : UIViewController
+
+@property (strong, nonatomic) IBOutlet UILabel *dogYearsLabel;
+@property (strong, nonatomic) IBOutlet UITextField *inputYearTextField;
+
+- (IBAction)convertButtonPressed:(UIButton *)sender;
+
 @end
