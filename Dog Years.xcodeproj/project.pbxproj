@@ -21,6 +21,8 @@
 		002986D919AE56CC00FAE088 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 002986BB19AE56CC00FAE088 /* UIKit.framework */; };
 		002986E119AE56CC00FAE088 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 002986DF19AE56CC00FAE088 /* InfoPlist.strings */; };
 		002986E319AE56CC00FAE088 /* Dog_YearsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 002986E219AE56CC00FAE088 /* Dog_YearsTests.m */; };
+		002986ED19AE5E6B00FAE088 /* 1-iPhone-5-Wallpaper-ios7-blur.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 002986EC19AE5E6B00FAE088 /* 1-iPhone-5-Wallpaper-ios7-blur.jpg */; };
+		002986EF19AE60D300FAE088 /* dog-puppy-1136x640.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 002986EE19AE60D300FAE088 /* dog-puppy-1136x640.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		002986DE19AE56CC00FAE088 /* Dog YearsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Dog YearsTests-Info.plist"; sourceTree = "<group>"; };
 		002986E019AE56CC00FAE088 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		002986E219AE56CC00FAE088 /* Dog_YearsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dog_YearsTests.m; sourceTree = "<group>"; };
+		002986EC19AE5E6B00FAE088 /* 1-iPhone-5-Wallpaper-ios7-blur.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1-iPhone-5-Wallpaper-ios7-blur.jpg"; sourceTree = "<group>"; };
+		002986EE19AE60D300FAE088 /* dog-puppy-1136x640.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dog-puppy-1136x640.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +130,8 @@
 		002986BE19AE56CC00FAE088 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				002986EE19AE60D300FAE088 /* dog-puppy-1136x640.jpg */,
+				002986EC19AE5E6B00FAE088 /* 1-iPhone-5-Wallpaper-ios7-blur.jpg */,
 				002986BF19AE56CC00FAE088 /* Dog Years-Info.plist */,
 				002986C019AE56CC00FAE088 /* InfoPlist.strings */,
 				002986C319AE56CC00FAE088 /* main.m */,
@@ -231,6 +237,8 @@
 			files = (
 				002986D019AE56CC00FAE088 /* Images.xcassets in Resources */,
 				002986C219AE56CC00FAE088 /* InfoPlist.strings in Resources */,
+				002986EF19AE60D300FAE088 /* dog-puppy-1136x640.jpg in Resources */,
+				002986ED19AE5E6B00FAE088 /* 1-iPhone-5-Wallpaper-ios7-blur.jpg in Resources */,
 				002986CB19AE56CC00FAE088 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
