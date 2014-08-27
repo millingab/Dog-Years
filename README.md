@@ -1,6 +1,6 @@
 Dog-Years
 =========
-This is my first iOS app. Its function is a very basic which is to convert human years to dog years with a algorithm. 
+This is my first iOS app. It is very basic app with a very simple function - to convert human years to dog years with a algorithm. 
 
 Screenshots 
 
